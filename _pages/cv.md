@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelors of Science, Mathematics, University of Oregon                    2002
+* Masters of Business Administration, University of Utah                     2013
+* Doctorate of Philosophy in Business Administration, University of Utah     2020 (expected)
 
 Work experience
 ======
@@ -26,15 +26,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +45,28 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Experience
 ======
-* Currently signed in to 43 different slack teams
+|Role                             |Company                                    |Period     |
+|---------------------------------|-------------------------------------------|-----------|
+Forecasting Manager / Consultant  |Clearlink – A SYKES Company								|2013 – 2019|
+Risk Manager                      |American Express										        |2011 - 2013|
+Corporate Risk Officer            |Zions Bancorporation										    |2010 - 2011|
+Senior Actuarial Assistant        |Standard Insurance Company									|2005 - 2010|
+Actuarial Assistant               |Safeco											                |2004 - 2005|
+
+
+Board Experience
+======
+|Role                             |Organization                               |Period        |
+|---------------------------------|-------------------------------------------|--------------|
+Advisory Board                    |Nuro											                  |2019 - Present|
+Vice Chairman                     |Rise-Up School of Dance									  |2017 - Present|
+COO / CFO / Chairman              |La Barba											              |2012 - Present|
+Advisory Board                    |Pacific Heritage Academy										|2004 - 2005   |
+
+Memberships
+======
+Academy of Management
+Strategic Management Society
+
