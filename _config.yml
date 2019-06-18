@@ -13,7 +13,7 @@ name                     : &name "Jeremiah Cox"
 description              : &description "personal description"
 url                      : https://jeremiahcox.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jdcox1999/jeremiahcox.github.io"
+repository               : "jeremiahcox.github.io"
 teaser                   : "https://github.com/jdcox1999/jeremiahcox.github.io/blob/master/images/Jeremy-Cox_grey.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 100
